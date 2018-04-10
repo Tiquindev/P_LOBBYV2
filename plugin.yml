@@ -1,0 +1,7 @@
+name: LitleGames
+main: me.Patricktopgames.lobby.Main
+version: 1.0
+author: patricktopgames
+description: litleGames era o server que eu ia lançar mas desisti por falta de dinheiro
+commands:
+   score:
